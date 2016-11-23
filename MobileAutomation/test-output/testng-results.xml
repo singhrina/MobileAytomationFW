@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75297" started-at="2016-11-23T07:44:19Z" finished-at="2016-11-23T07:45:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75297" started-at="2016-11-23T07:44:19Z" finished-at="2016-11-23T07:45:35Z">
+      <class name="com.wbl.MobileAutomation.YelpApp">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wbl.MobileAutomation.YelpApp@2b98378d]" name="setUp" is-config="true" duration-ms="21190" started-at="2016-11-22T23:44:19Z" finished-at="2016-11-22T23:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testYelp()[pri:0, instance:com.wbl.MobileAutomation.YelpApp@2b98378d]" name="testYelp" duration-ms="54075" started-at="2016-11-22T23:44:40Z" finished-at="2016-11-22T23:45:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testYelp -->
+      </class> <!-- com.wbl.MobileAutomation.YelpApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
